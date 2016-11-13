@@ -1,0 +1,36 @@
+<!--Angelo Romel Lopez, B00285812-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.angelosoft.angelo_romel.weatherquote.FavLocationAuthActivityFragment"
+    tools:showIn="@layout/activity_fav_location_auth">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerVertical="true"
+        android:id="@+id/listview_favlocation"
+        android:scrollbars="none"
+        android:footerDividersEnabled="false"/>
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/get_current_place_fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="@dimen/fab_margin"
+        android:src="@drawable/ic_add_location_white_36dp" />
+    </FrameLayout>
+
+</LinearLayout>
+<!--
+android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+-->

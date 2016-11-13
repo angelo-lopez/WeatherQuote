@@ -1,0 +1,17 @@
+<!--Angelo Romel Lopez, B00285812-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.angelosoft.angelo_romel.weatherquote.ForecastActivityFragment"
+    tools:showIn="@layout/activity_forecast">
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:id="@+id/listview_forecast"
+        android:divider="@null"
+        android:scrollbars="none"/>
+</LinearLayout>

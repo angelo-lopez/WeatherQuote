@@ -1,0 +1,16 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.angelosoft.angelo_romel.weatherquote.Forecast3HrActivityFragment"
+    tools:showIn="@layout/activity_forecast3_hr">
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerVertical="true"
+        android:id="@+id/listview_forecast3"
+        android:scrollbars="none"/>
+</LinearLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/mist_eve_weather_animation" android:oneshot="false">
+    <item android:drawable="@drawable/ic_mist_eve_anim_1" android:duration="125"/>
+    <item android:drawable="@drawable/ic_mist_eve_anim_2" android:duration="125"/>
+    <item android:drawable="@drawable/ic_mist_eve_anim_3" android:duration="125"/>
+    <item android:drawable="@drawable/ic_mist_eve_anim_4" android:duration="125"/>
+    <item android:drawable="@drawable/ic_mist_eve_anim_5" android:duration="125"/>
+    <item android:drawable="@drawable/ic_mist_eve_anim_6" android:duration="125"/>
+    <item android:drawable="@drawable/ic_mist_eve_anim_7" android:duration="125"/>
+    <item android:drawable="@drawable/ic_mist_eve_anim_8" android:duration="125"/>
+    <item android:drawable="@drawable/ic_mist_eve_anim_9" android:duration="125"/>
+    <item android:drawable="@drawable/ic_mist_eve_anim_10" android:duration="125"/>
+</animation-list>

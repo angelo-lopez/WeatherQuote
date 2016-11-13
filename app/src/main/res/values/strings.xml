@@ -1,0 +1,54 @@
+<!--Angelo Romel Lopez, B00285812-->
+<resources>
+    <string name="app_name">Weather Quote</string>
+    <string name="title_activity_login"></string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add_location">Add Location</string>
+    <string name="action_sign_in">Go to Sign In</string>
+    <string name="action_sign_out">Sign Out</string>
+    <string name="action_password_reset">Forgotten Password</string>
+    <string name="action_change_password">Update Password</string>
+    <string name="action_show_map">Show Location in Map</string>
+    <string name="action_submit_quote">Submit Your Weather Quote</string>
+    <string name="action_goto_fav_location">Favourite Places</string>
+
+    <!--openweathermap api key/appid-->
+    <string name="weather_appid">Your API key</string>
+
+    <!--firebase url-->
+    <string name="firebase_url">Your Firebase URL</string>
+
+    <!--static messages-->
+    <string name="login_message">Signing in is not required. Although signing in with email let\'s you access your list of favorite locations from any Android phone. Your email address will not be shared and no information will be collected or sent. You can also choose the <b>\"Skip Sign In\"</b> option to use the app without signing in.</string>
+    <string name="failed_forecast_message">
+        Sorry. No data is available.
+    </string>
+
+    <!--Internal storage-->
+    <string name="storage_name">weatherquote</string>
+
+    <!--Activity layout title-->
+    <string name="title_activity_sign_up">Sign Up</string>
+    <string name="title_activity_fav_location">Favourite Places</string>
+    <string name="title_activity_place_picker">Add Place to Favourites</string>
+    <string name="title_activity_forecast">7 Day Forecast</string>
+    <string name="title_activity_forecast3_hr">3 Hour Forecast</string>
+    <string name="title_activity_forecast_fail">ForecastFailActivity</string>
+    <string name="title_activity_update_password">Update Password</string>
+    <string name="title_activity_now_forecast">Current Forecast</string>
+    <string name="title_activity_forecast_fail3_hr">ForecastFail3HrActivity</string>
+    <string name="title_activity_submit_quote">Add Your Quote</string>
+
+    <!--Temperature units-->
+    <string name="unit_metric">\u2103</string>
+    <string name="unit_fahrenheit">\u2109</string>
+    <string name="pref_unit_temperature">\u2103</string>
+
+    <!--Temp testing geocoords-->
+    <string name="lat">0</string><!--54-->
+    <string name="lng">0</string><!---2-->
+
+    <!--AdMob-->
+    <string name="banner_ad_unit_id">Your AdMob banner unit id</string>
+    <string name="interstitial_ad_unit_id">Your interstitial unit id</string>
+</resources>

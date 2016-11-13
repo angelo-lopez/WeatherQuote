@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/storm_weather_animation" android:oneshot="false">
+    <item android:drawable="@drawable/ic_storm_anim_1" android:duration="125"/>
+    <item android:drawable="@drawable/ic_storm_anim_2" android:duration="125"/>
+    <item android:drawable="@drawable/ic_storm_anim_3" android:duration="125"/>
+    <item android:drawable="@drawable/ic_storm_anim_4" android:duration="125"/>
+</animation-list>

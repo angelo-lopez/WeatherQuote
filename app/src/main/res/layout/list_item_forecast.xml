@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Angelo Romel Lopez, B00285812-->
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:scrollbars="none">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:text="20.23 C"
+        android:textColor="#0caee9"
+        android:id="@+id/list_item_temperature_textview"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:layout_marginTop="2dp"/>
+
+    <ImageView
+        android:layout_height="60dp"
+        android:layout_width="60dp"
+        android:id="@+id/image_view"
+        android:src="@drawable/ic_clear"
+        android:paddingLeft="10dp"
+        android:layout_below="@+id/list_item_temperature_textview"
+        android:layout_gravity="center_vertical"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:textSize="18sp"
+        android:layout_toRightOf="@+id/image_view"
+        android:id="@+id/list_item_forecast_textview"
+        android:gravity="center_vertical"
+        android:text="Text"
+        android:textStyle="bold"
+        android:layout_alignTop="@+id/image_view" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:text="Text"
+        android:id="@+id/list_item_desc_forecast_textview"
+        android:layout_below="@+id/list_item_subforecast_textview"
+        android:layout_alignLeft="@+id/list_item_subforecast_textview"
+        android:layout_alignStart="@+id/list_item_subforecast_textview"
+        android:textColor="#0caee9" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:text="Text"
+        android:id="@+id/list_item_subforecast_textview"
+        android:layout_below="@+id/list_item_forecast_textview"
+        android:layout_alignLeft="@+id/list_item_forecast_textview"
+        android:layout_alignStart="@+id/list_item_forecast_textview"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Pressure"
+        android:id="@+id/list_item_pressure_textview"
+        android:layout_marginRight="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_above="@+id/list_item_subforecast_textview"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Humidity"
+        android:id="@+id/list_item_humidity_textview"
+        android:layout_marginRight="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_below="@+id/list_item_pressure_textview"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:textSize="15sp"
+        android:text="Small Text"
+        android:id="@+id/list_item_wind_textview"
+        android:layout_below="@+id/list_item_desc_forecast_textview"
+        android:layout_alignStart="@+id/list_item_desc_forecast_textview"
+        android:textStyle="italic"
+        android:layout_marginBottom="10dp"/>
+
+</RelativeLayout>
+    <!--
+    android:textAppearance="?android:attr/textAppearanceMedium"
+    -->

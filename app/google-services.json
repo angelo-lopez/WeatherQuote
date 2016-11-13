@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "949914981813",
+    "firebase_url": "https://weatherquote.firebaseio.com",
+    "project_id": "project-3588378833550549671",
+    "storage_bucket": "project-3588378833550549671.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949914981813:android:8b0400b4891f5a7b",
+        "android_client_info": {
+          "package_name": "com.angelosoft.angelo_romel.weatherquote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949914981813-lcg1nbus8ivml7pgkm3apu1vu5i2r075.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTysUKSzecQ5LK4z4nSkQZKeKjTg9pYck"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

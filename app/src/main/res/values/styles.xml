@@ -1,0 +1,65 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="displayOptions">useLogo|showHome</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="AnimatedProgressDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+    <!--CollapsingToolbarLayout-->
+    <style name="CollapsingToolbarText" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">25sp</item>
+    </style>
+
+    <!--FabMenu Label-->
+    <style name="fabMenuLabel">
+        <item name="android:background">@color/colorAccent</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:layout_marginEnd">0dp</item>
+        <item name="android:paddingRight">20dp</item>
+        <item name="menu_labels_colorNormal">#ffffff</item>
+        <item name="menu_labels_colorPressed">#444</item>
+        <item name="menu_labels_colorRipple">#66efecec</item>
+        <item name="menu_labels_cornerRadius">3dp</item>
+        <item name="menu_labels_ellipsize">none</item>
+        <item name="menu_labels_hideAnimation">@anim/fab_slide_out_to_right</item>
+        <item name="menu_labels_margin">0dp</item>
+        <item name="menu_labels_maxLines">-1</item>
+        <item name="menu_labels_padding">8dp</item>
+        <item name="menu_labels_position">left</item>
+        <item name="menu_labels_showAnimation">@anim/fab_slide_in_from_right</item>
+        <item name="menu_labels_showShadow">true</item>
+        <item name="menu_labels_singleLine">false</item>
+        <item name="menu_labels_textColor">#ffffff</item>
+        <item name="menu_labels_textSize">15sp</item>
+        <item name="menu_openDirection">up</item>
+    </style>
+    <!--
+    <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+    <item name="android:backgroundDimEnabled">true</item>
+    -->
+
+</resources>

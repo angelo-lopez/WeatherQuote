@@ -1,0 +1,62 @@
+<resources>
+    <!--Weather quotes collection-->
+    <string-array name="weather_quotes">
+        <item>\"Sorry this weather is requiring you to powder your balls in real time.\" - unknown author</item>
+        <item>\"Bad weather always looks worse through a window.\" - unknown author</item>
+        <item>\"Anyone who says sunshine brings happiness has never danced in the rain.\" - unknown author</item>
+        <item>\"The coldest winter I ever spent was a summer in San Francisco.\" - Mark Twain</item>
+        <item>\"For the man sound in body and serene of mind there is no such thing as bad weather; every day has its beauty, and storms which whip the blood do but make it pulse more vigorously.\" - George Gissing</item>
+        <item>\"Snowflakes are kisses from heaven.\" - unknown author</item>
+        <item>\"It is best to read the weather forecast before praying for rain.\" - Mark Twain</item>
+        <item>\"Everybody talks about the weather, but nobody does anything about it.\" - Charles Dudley Warner</item>
+        <item>\"Climate is what we expect, weather is what we get.\" - Mark Twain</item>
+        <item>\"Conversation about the weather is the last refuge of the unimaginative.\" - Oscar Wilde</item>
+        <item>\"Change of weather is the discourse of fools.\" - Thomas Fuller</item>
+        <item>\"In fair weather prepare for foul.\" - Thomas Fuller</item>
+        <item>\"Among famous traitors of history one might mention the weather.\" - Ilka Chase</item>
+        <item>\"The weather and my mood have little connection. I have my foggy and my fine days within me; my prosperity or misfortune has little to do with the matter.\" - Blaise Pascal</item>
+        <item>\"The only way I\'d worry about the weather is if it snows on our side of the field and not theirs.\" - Tommy Lasorda</item>
+        <item>\"Sorry this weather is requiring you to powder your balls in real time.\" - unknown author</item>
+        <item>\"First person to complain it\'s too hot this summer gets punched.\" - unknown author</item>
+        <item>\"I\'m not going outside until the temperature is above my age.\" - unknown author</item>
+        <item>\"You know it\'s cold outside when you go outside and it\'s cold.\" - unknown author</item>
+        <item>\"It\'s so damn cold outside. I just farted snowflakes.\" - unknown author</item>
+        <item>\"There are only 2 temperatures in my office: "Satan\'s butthole" or "My nipples should be registered weapons\" - unknown author</item>
+        <item>\"Some people are like clouds. When they disappear, it\'s a brighter day.\" - unknown author</item>
+        <item>\"Don\'t confuse your path with your destination. Just because it\'s stormy now doesn\'t mean that you aren\'t headed for sunshine.\" - unknown author</item>
+        <item>\"Oh the weather outside is frightful and our joints are not delightful. Since it\'s got so dang cold, we feel old, we feel old, we feel old.\" - unknow author</item>
+        <item>\"Facebook weather forecast: We are expecting 2 to 3 feet of drama this evening with bullshit blowing in from all directions.\" - unknown author</item>
+        <item>\"I tried to grab fog. But I mist.\" - unknown author</item>
+        <item>\"Did you hear the story about the tornado? There\'s a twist at the end.\" - unknown author</item>
+        <item>\"When the fog burns off it won\'t be mist.\" - unknown author</item>
+        <item>\"So it\'s raining? You\'re not sugar you won\'t melt... so enjoy it.\" - unknown author</item>
+        <item>\"If it\'s too cold for you outside, it\'s to cold for them. Like people, cats and dogs are susceptible to frostbite and hypothermia. Please bring them inside.\" - unknown author</item>
+        <item>\"Todays forecast... Holy crap I can\'t feel my face degrees!\" - unknown author</item>
+        <item>\"Snow is not a wolf in sheep\'s clothing - it is a tiger in lamb\'s clothing.\" - Matthias Zdarsky</item>
+        <item>\"Sunshine is delicious, rain is refreshing, wind braces us up, snow is exhilarating; there is really no such thing as bad weather, only different kinds of good weather.\" - John Ruskin</item>
+        <item>\"Winter sucks! It\'s gonna take till july to thaw out my nuts!\" - unknown author</item>
+        <item>\"I\'m glad it\'s finally hot enough to complain about how hot it is.\" - unknow author</item>
+        <item>\"Sometimes, you just have to bow your head, say a prayer, and weather the storm.\" - unknown author</item>
+        <item>\"I love snow, and all the forms of radiant frost.\" - P.B. Shelley</item>
+        <item>\"Today\'s weather forecast. Heavy showers of blessings, strong winds to blow your worries away, followed by warm hugs and kisses to put a smile on your face.\" - unknown author</item>
+        <item>\"We could all take a lesson from the weather, it pays no attention to criticism.\" - unknown author</item>
+        <item>\"If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome.\" - Anne Bradstreet</item>
+        <item>\"Wearing a hoodie and shorts because you\'re confused about the weather.\" - unknow author</item>
+        <item>\"Everybody wants happiness. Nobody wants pain. But you can\'t have a rainbow without a little rain.\" - unknown author</item>
+        <item>\"Cold? Buy a book! You\'ll still be cold, but you\'ll have a book.\" - unknown author</item>
+        <item>\"If kisses were snowflakes, I\'d send you a blizzard.\" - unknow author</item>
+        <item>\"Holyfuckingshitballs, it is cold!\" - unknown author</item>
+        <item>\"Sex is like snow. You never know how many inches you\'re going to get, or how long it will last.\" - unknown author</item>
+        <item>\"Winter.. the three month break between a woman and her razor.\" - unknown author</item>
+        <item>\"Laughter is the sun that drives winter from the human face.\" - Victor Hugo</item>
+        <item>\"Just living is not enough... one must have sunshine, freedom, and a little flower.\" - Hans Christian Andersen</item>
+        <item>\"Seek happiness for it\'s own sake, and you will not find it; seek for duty, and happiness will follow as the shadow comes with the sunshine.\" - Tryon Edwards</item>
+        <item>\"False friends are like our shadow, keeping close to us while we walk in the sunshine, but leaving us the instant we cross into the shade.\" - Christian Nestell Bovee</item>
+        <item>\"It\'s so cold we had to chisel the dog off a lamp post.\" - unknown author</item>
+        <item>\"Cold! If the thermometer had been an inch longer we\'d all have frozen to death.\" - Mark Twain</item>
+        <item>\"There are two seasons in Scotland: June and Winter.\" - Billy Connolly</item>
+        <item>\"I hate all those weathermen, too, who tell you that rain is bad weather. There\'s no such thing as bad weather, just the wrong clothing, so get yourself a sexy raincoat and live a little.\" - Billy Connolly</item>
+        <item>\"Seems I need to stay in forever with all the rainy day in Scotland.\" - Hong Kong dude</item>
+        <item>\"Cold! If the thermometer had been an inch longer we\'d all have frozen to death.\" - Mark Twain</item>
+    </string-array>
+</resources>
