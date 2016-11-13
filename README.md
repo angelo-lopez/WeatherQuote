@@ -46,3 +46,12 @@ dependencies {
     compile 'com.google.firebase:firebase-ads:9.0.1'
     compile 'com.github.clans:fab:1.6.2'
 }
+
+Weather forecast and api available at:
+https://openweathermap.org/api
+
+Firebase available at:
+https://firebase.google.com/
+
+AdMob available at:
+https://www.google.com/admob/landing/sign-up-003a.html?subid=emea-semexp3a-r3&gclid=CJ-Cm9HFpdACFUcQ0wodg-oKbw
