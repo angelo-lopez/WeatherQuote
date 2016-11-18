@@ -4,7 +4,7 @@ Android native weather app developed with Android Studio 2.2.2.
 Available in the Google Play Store:
 https://play.google.com/store/apps/details?id=com.angelosoft.angelo_romel.weatherquote
 
-You need to provide your own API keys to the following locations if you wish you test the application:
+You need to provide your own API keys if you wish you test the application:
 
 strings.xml
 <!--openweathermap api key/appid-->
