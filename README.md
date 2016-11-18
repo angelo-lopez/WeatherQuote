@@ -47,6 +47,8 @@ dependencies {
     compile 'com.github.clans:fab:1.6.2'
 }
 
+The app uses APIs from Openweathermap for the weather forecast and Google Place for the location auto suggestion. Reverse geocoding is used to get the user's current location.
+
 Weather forecast and api available at:
 https://openweathermap.org/api
 
